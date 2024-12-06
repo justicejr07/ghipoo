@@ -1,5 +1,5 @@
 # SetUp prometheus
-```bash
+``` bash
 #!/bin/bash
 
 # Update package manager repositories
